@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Obsidian"
 include(":app")
- 
